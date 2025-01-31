@@ -23,7 +23,7 @@
 ```bash
 spotify-clone/
 │   ├── imagens/     # Imagens, ícones e fontes
-│   ├── index.html/  # Estilos globais e temas
+│   ├── index.html/  # Site
 │   ├── style.css    # Estilo so site
 
 Desenvolvido por Guilherme
