@@ -9,7 +9,6 @@
 ✅ Interface semelhante ao Spotify Web  
 ✅ Responsivo para diferentes tamanhos de tela  
 ✅ Navegação entre páginas (Home, Biblioteca, Pesquisa)  
-✅ Player de música funcional (sem streaming oficial)  
 ✅ Modo escuro e experiência visual fiel ao original  
 
 ## 🛠️ Tecnologias Utilizadas  
