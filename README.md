@@ -16,7 +16,7 @@
 
 - **Front-end:** React, JavaScript, HTML, CSS, Bootstrap  
 - **Estilização:** CSS3, Styled Components   
-- **Pacotes adicionais:** React Icons, React Router, Axios  
+- **Pacotes adicionais:** React Icons  
 
 ## 📂 Estrutura do Projeto  
 
