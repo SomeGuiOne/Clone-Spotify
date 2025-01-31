@@ -22,16 +22,9 @@
 
 ```bash
 spotify-clone/
-├── public/          # Arquivos estáticos
-├── src/
-│   ├── components/  # Componentes reutilizáveis
-│   ├── pages/       # Páginas principais do app
-│   ├── assets/      # Imagens, ícones e fontes
-│   ├── styles/      # Estilos globais e temas
-│   ├── App.js       # Componente principal
-│   ├── index.js     # Ponto de entrada do React
-├── .gitignore
-├── package.json
-├── README.md
+│   ├── imagens/     # Imagens, ícones e fontes
+│   ├── index.html/  # Estilos globais e temas
+│   ├── style.css    # Estilo so site
+
 Desenvolvido por Guilherme
 
